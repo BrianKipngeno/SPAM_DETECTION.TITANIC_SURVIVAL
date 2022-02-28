@@ -1,6 +1,11 @@
 **KNN- CLASSIFIER AND NAIVE BAYES CLASSIFIER**
 
-This is a repository containing two python notebooks containing knn classification model prediction and a naive bayes classification model prediction respectively
+This is a repository containing two python notebooks containing knn classification model prediction and a naive bayes classification model prediction respectively. WE created a a model that predicted whether a passenger survived the titanic using the titanic dataset using the KNN model and used the spam dataset to build a model that predicted whether an email is a spam or not using The Naive Bayes classification model.
+```
+  
+![](https://forthebadge.com/images/badges/check-it-out.svg)
+
+# Installation Requirements
 ```
   
 
